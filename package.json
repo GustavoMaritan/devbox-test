@@ -18,6 +18,7 @@
   "homepage": "https://github.com/GustavoMaritan/devbox-test#readme",
   "dependencies": {
     "cli-color": "^1.2.0",
+    "promise": "^8.0.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
   }
