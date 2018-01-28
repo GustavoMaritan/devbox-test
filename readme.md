@@ -2,7 +2,6 @@
 
 * ...
 
-    * Teste unitário
 * NEWS
     - Start aplicação (Processo mantendo vivo indevidamente)
     - Messages
